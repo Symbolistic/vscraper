@@ -52,7 +52,7 @@ def scroll_to_end(wd):
 
 # Subtle flex with a slight warning?
 print(str.center(
-    Fore.YELLOW + " VScrape " + Style.RESET_ALL, 90, '#'))
+    Fore.YELLOW + " VScraper " + Style.RESET_ALL, 90, '#'))
 print(Fore.YELLOW + "This was developed for company use and might be buggy if used outside of company websites")
 
 print(Style.RESET_ALL)
